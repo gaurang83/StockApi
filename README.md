@@ -16,7 +16,7 @@ The API is designed to provide stock data for an application that could be used 
 
 ## Technologies Used
 
-- **.NET Core 6.0** (C#)
+- **.NET Core 9.0** (C#)
 - **Entity Framework Core** (for database access)
 - **SQL Server** (for database storage)
 - **Azure App Service** (for deployment)
